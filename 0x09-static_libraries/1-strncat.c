@@ -30,4 +30,3 @@ char *_strncat(char *dest, char *src, int n)
 	dest = tmp1;
 	return (dest);
 }
-
