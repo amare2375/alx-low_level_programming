@@ -1,3 +1,3 @@
 #!/bin/bash
-wget -P .. https://raw.githubusercontent.com/amare2375/alx-low_level_programming/master/0x18-dynamic_libraries/liball.so
+wget -P ..  https://github.com/amare2375/alx-low_level_programming.git/master/0x18-dynamic_libraries/liball.so
 export LD_PRELOAD="$PWD/../liball.so"
